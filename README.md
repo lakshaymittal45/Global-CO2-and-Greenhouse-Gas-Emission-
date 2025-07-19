@@ -1,4 +1,3 @@
-
 <h1>🌍 Global CO₂ & Greenhouse Gas Emissions Dashboard</h1>
 
 <h2>📊 Project Overview</h2>
@@ -61,6 +60,8 @@ Understanding these patterns is crucial in today’s climate crisis. This dashbo
 <h2>📽️ Demo Video</h2>
 <p>
 Watch the project in action:<br>
-<a href="[https://your-demo-video-link.com](https://www.linkedin.com/posts/lakshaymittal45_powerbi-datavisualization-co2emissions-activity-7341867047120683009-DbC9?utm_medium=ios_app&rcm=ACoAAEQMSuUBAWR5PuqHy3GvCW1h8ukwlk8HRgU&utm_source=social_share_video_v2&utm_campaign=copy_link)" target="_blank"><strong>▶️ Click here to view the demo video</strong></a>
+<a href="https://www.linkedin.com/posts/lakshaymittal45_powerbi-datavisualization-co2emissions-activity-7341867047120683009-DbC9?utm_medium=ios_app&rcm=ACoAAEQMSuUBAWR5PuqHy3GvCW1h8ukwlk8HRgU&utm_source=social_share_video_v2&utm_campaign=copy_link" target="_blank">
+  <strong>▶️ Click here to view the demo video on LinkedIn</strong>
+</a>
 </p>
 
